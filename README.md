@@ -12,3 +12,5 @@ My favorite color:
 > [COLOR NAME]
 
 Thank you so much for reading! ☺
+
+I've added some more info about myself...
